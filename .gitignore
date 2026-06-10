@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.out
+a.out
+*.obj
+*.ilk
+*.pdb
+*.dSYM/
+build/
+dist/
